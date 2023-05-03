@@ -58,7 +58,7 @@ body {
   height: 100%;
   background-size: cover;
   background-position: center;
-  /*animation: slide 8s ease-in-out infinite;*/
+  animation: slide 8s ease-in-out infinite;
   display: flex;
   flex-direction: row;
 	justify-content: space-around;
@@ -66,7 +66,7 @@ body {
 }
 
 
-/*.slide:nth-child(1) {
+.slide:nth-child(1) {
   background-image: url("../EasyAgro/image1.jpg");
   animation-delay: 5s;
 }
@@ -97,7 +97,7 @@ body {
   100% {
     opacity: 0;
   }
-}*/
+}
 
 .part4 {
 	position: absolute;
