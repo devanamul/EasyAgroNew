@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'EasyAgroDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9084F57518BF4F77B34910D0B4F35C7F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_882AE20E35E3477BB7947CDF30EE6F1B }}
